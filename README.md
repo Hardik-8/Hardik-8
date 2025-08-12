@@ -1,105 +1,74 @@
-<!-- Animated Typing -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7D7&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Hardik+Jain!;Aspiring+Data+Science+Engineer;Python+%7C+Machine+Learning+%7C+Deep+Learning;Always+Learning+New+Things)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Hardik-8/Hardik-8/main/Banner.png" alt="banner" width="100%" />
+</p>
 
----
-## ✨ About Me  
-<div align="center">
-
-🎯 **Aspiring Data Science Engineer** | 🎓 **B.Tech in AI & Data Science (5th Semester)**  
-📍 **India** | 🌐 Passionate about **AI, Machine Learning & Real-Time Applications**  
+# 👋 Hi, I'm Hardik!  
+> 🚀 Developer • 🎮 Gamer • ☕ Coffee Enthusiast
 
 ---
 
-### 💡 What I Do  
-- 🧠 Build **AI-powered applications** using Python, ML & DL  
-- ⚡ Develop **smart automation tools** and **real-time AI systems**  
-- ☁️ Work with **Flask, MySQL**, and **Google Cloud**  
+## 💫 About Me
+- 🧑‍💻 **Software Developer** with a love for building innovative projects and solving real-world problems  
+- 🎯 Passionate about **AI, Open Source, and Automation**  
+- 🌱 Currently learning: `Machine Learning`, `Cloud Deployment`, `DevOps`  
+- 💡 Fun fact: I debug faster with music 🎧  
+- 📚 Always on the lookout for **new tools, frameworks, and side projects**  
+- 🕹 Mario fan & retro gaming collector  
 
 ---
 
-### 🚀 Current Focus  
-- 📚 **Advanced Machine Learning** & **Model Deployment**  
-- 🏆 Google Cloud Arcade Program (Collecting Badges)  
-- 🛠️ Building **modular, production-ready AI projects**  
+## 🛠 Skills & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,git,github,docker,linux,figma,react,mysql" alt="skills" />
+</p>
 
 ---
 
-### 🎯 2025 Goals  
-- 💼 Land a **Data Science Engineer Internship**  
-- 🤝 Contribute to **open-source AI projects**  
-- 📂 Build a **portfolio of 10+ advanced AI projects**  
-
----
-
-💬 *"Code. Learn. Improve. Repeat."*  
-
-</div>
-
----
-
-## 🛠 Tech Stack  
-
-<div align="center">
-
-### **Languages & Libraries**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" style="animation: spin 5s linear infinite;"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" height="50" style="animation: pulse 2s infinite;"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" height="50" style="animation: pulse 2s infinite;"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50" height="50" style="animation: spin 5s linear infinite;"/>  
-
-
----
-
-### **Web & Databases**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50"/>  
-
----
-
-### **Tools & Platforms**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="50" height="50"/>  
-
-</div>
-
----
-
-## 📊 GitHub Stats & Activity
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hardik-8&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hardik-8&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://streak-stats.demolab.com?user=Hardik-8&theme=tokyonight)  
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hardik-8&theme=tokyo-night)
+## 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hardik-8&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hardik-8&theme=radical" />
+</p>
 
 ---
 
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=Hardik-8&theme=onedark&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
-
-
----
-
-## 📚 Currently Learning
-- **Google Cloud Platform (GCP)**
-- **Advanced Machine Learning**
-- **Real-time AI Systems**
-- **Streamlit for Data Science Apps**
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Hardik-8&theme=onedark&no-frame=true&no-bg=true&margin-w=15" />
+</p>
 
 ---
 
-## 🚀 Upcoming Projects
-- AI-powered **Stock Market Prediction System**  
-- **Real-time Mood & Age Detector**  
-- **Voice Assistant (NIA) with Modular Features**  
+## 📌 Featured Projects
+| 🚀 Project | 📄 Description | 🛠 Tech Stack |
+|------------|---------------|--------------|
+| [![AI App](https://img.shields.io/badge/-Awesome%20AI%20App-blue?style=flat-square&logo=python&logoColor=white)](https://github.com/Hardik-8/awesome-ai) | AI-powered web application for real-time predictions | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000?style=flat&logo=flask&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) |
+| [![Data Dashboard](https://img.shields.io/badge/-Data%20Dashboard-green?style=flat-square&logo=plotly&logoColor=white)](https://github.com/Hardik-8/data-dashboard) | Interactive analytics dashboard for visualizing datasets | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=flat&logo=plotly&logoColor=white) |
+| [![Retro Game](https://img.shields.io/badge/-Retro%20Game%20Clone-orange?style=flat-square&logo=pygame&logoColor=white)](https://github.com/Hardik-8/retro-game) | Pixel-art inspired classic arcade game remake | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Pygame](https://img.shields.io/badge/-Pygame-006400?style=flat&logo=python&logoColor=white) |
 
 ---
 
-## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hardik_Jain-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hardik-jain819492/)  
-[![Gmail](https://img.shields.io/badge/Email-jainhardik819492%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jainhardik819492@gmail.com)  
-[![GitHub](https://img.shields.io/badge/GitHub-Hardik_8-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hardik-8)
+## 📜 Certificates
+- 🏅 **Un-wired IOT Exhibition Certificate** – AKS University, Satna (M.P.)  
+- 🏅 **5 Days Winter School Program on Machine Learning** – AKS University, Satna (M.P.)  
+- 🏅 **Achieving 10-Modules of Excellence in IOT** – AKS University, Satna (M.P.)  
 
 ---
 
-## 💡 Dev Motto
-> *"Code. Learn. Improve. Repeat."* 🚀
+## 🎯 Connect with Me
+<p align="center">
+  <a href="https://linkedin.com/in/yourlinkedin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:youremail@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://yourportfolio.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white"/>
+  </a>
+</p>
 
+---
+
+## 💬 Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
