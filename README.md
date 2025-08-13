@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Hardik-8/Hardik-8/main/Banner.png" alt="banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/Hardik-8/Hardik-8/main/banner.png.gif" alt="banner" width="100%" />
 </p>
 
 # 👋 Hi, I'm Hardik!  
@@ -17,18 +17,12 @@
 
 ---
 
-## 🛠 Skills & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,git,github,docker,linux,figma,react,mysql" alt="skills" />
-</p>
-
----
-
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hardik-8&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hardik-8&theme=radical" />
-</p>
+## 🎯 Fun Facts & Interests
+- 📍 Based in Satna, India 🏡  
+- 🏔 Love exploring nature & mountains  
+- 🎨 Experimenting with **UI/UX design** in side projects  
+- 📖 Reading tech blogs & sci-fi novels  
+- 🎮 Gamer at heart — favourite genres: Open World & Retro Arcade  
 
 ---
 
@@ -37,14 +31,15 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Hardik-8&theme=onedark&no-frame=true&no-bg=true&margin-w=15" />
 </p>
 
+
 ---
 
 ## 📌 Featured Projects
 | 🚀 Project | 📄 Description | 🛠 Tech Stack |
 |------------|---------------|--------------|
-| [![AI App](https://img.shields.io/badge/-Awesome%20AI%20App-blue?style=flat-square&logo=python&logoColor=white)](https://github.com/Hardik-8/awesome-ai) | AI-powered web application for real-time predictions | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000?style=flat&logo=flask&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) |
-| [![Data Dashboard](https://img.shields.io/badge/-Data%20Dashboard-green?style=flat-square&logo=plotly&logoColor=white)](https://github.com/Hardik-8/data-dashboard) | Interactive analytics dashboard for visualizing datasets | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=flat&logo=plotly&logoColor=white) |
-| [![Retro Game](https://img.shields.io/badge/-Retro%20Game%20Clone-orange?style=flat-square&logo=pygame&logoColor=white)](https://github.com/Hardik-8/retro-game) | Pixel-art inspired classic arcade game remake | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Pygame](https://img.shields.io/badge/-Pygame-006400?style=flat&logo=python&logoColor=white) |
+| [![Face Recognition](https://img.shields.io/badge/-Face%20Recognition%20System-blue?style=flat-square&logo=python&logoColor=white)](https://github.com/Hardik-8/face-recognition-attendance) | AI-based attendance system using real-time face recognition & liveness detection | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000?style=flat&logo=flask&logoColor=white) |
+| [![Fake News Detection](https://img.shields.io/badge/-Fake%20News%20Detection-green?style=flat-square&logo=python&logoColor=white)](https://github.com/Hardik-8/fake-news-detection) | Machine learning model to detect misleading or fake news articles | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/-ScikitLearn-F7931E?style=flat&logo=scikit-learn&logoColor=white) ![NLP](https://img.shields.io/badge/-NLP-FF4088?style=flat) |
+| [![Movie Recommendation](https://img.shields.io/badge/-Movie%20Recommender%20System-orange?style=flat-square&logo=python&logoColor=white)](https://github.com/Hardik-8/movie-recommender) | Recommends movies to users based on content similarity and ratings | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white) ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) |
 
 ---
 
