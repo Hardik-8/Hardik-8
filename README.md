@@ -110,7 +110,6 @@
 |:-----------|:---------------|:--------------|:----------|
 | **📷 Face Recognition Attendance** | Smart attendance with liveness detection & web portal | `Python` `OpenCV` `Flask` | ✅ Active |
 | **📰 Fake News Detector** | Detects fake news & reviews using ML models | `Python` `NLP` `Sklearn` | 🔄 Improving |
-| **🤖 NIA Assistant** | JARVIS-like AI assistant (voice + commands) | `Python` `SpeechRecog` `AI` | 🛠 Building |
 | **🎬 Movie Recommender** | Personalized movie recommendations | `Python` `Streamlit` `ML` | ✅ Complete |
 | **📈 Stock Price Predictor** | Predict stock market trends | `Python` `ML` `Pandas` | ✅ Complete |
 | **Smart RFID Based Door Lock System (IOT)||`Arduino` `Solenoid lock`| ✅ Complete |
