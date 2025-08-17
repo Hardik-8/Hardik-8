@@ -113,36 +113,22 @@
 | **🤖 NIA Assistant** | JARVIS-like AI assistant (voice + commands) | `Python` `SpeechRecog` `AI` | 🛠 Building |
 | **🎬 Movie Recommender** | Personalized movie recommendations | `Python` `Streamlit` `ML` | ✅ Complete |
 | **📈 Stock Price Predictor** | Predict stock market trends | `Python` `ML` `Pandas` | ✅ Complete |
-| **📊 Robo X** | AI system for student analysis & guidance | `Python` `AI` `Dashboards` | ✅ Team Project |
-
+| **Smart RFID Based Door Lock System (IOT)||`Arduino` `Solenoid lock`| ✅ Complete |
 </div>
 
 ---
-
 ## 🏆 Certifications & Achievements  
 
 <div align="center">
-  <table>
-    <tr>
-      <th>🎓 Certification</th>
-      <th>🏢 Organization</th>
-      <th>📅 Year</th>
-      <th>🔗 Credential</th>
-    </tr>
-    <tr>
-      <td>☁️ Google Cloud Arcade</td>
-      <td>Google Cloud</td>
-      <td>2025</td>
-      <td><a href="https://www.cloudskillsboost.google/public_profiles/c5854a36-e163-4840-aabc-054ece6dc70c">View</a></td>
-    </tr>
-    <tr>
-      <td>🧠 Winter School ML</td>
-      <td>AKS University</td>
-      <td>2024</td>
-      <td>—</td>
-    </tr>
-  </table>
+
+| 🎓 Certification                                      | 🏢 Organization            | 📅 Year | 🔗 Credential |
+|-------------------------------------------------------|-----------------------------|---------|---------------|
+| 📘 5 Days Winter School Program on Machine Learning   | AKS University, Satna (M.P.) | 2024    | (VIEW)          |
+| 🏆 Un-wired IoT Exhibition Certificate                | AKS University, Satna (M.P.) | 2023    | (VIEW)          |
+| 🎖 10-Modules of Excellence in IoT                    | AKS University, Satna (M.P.) | 2023    | (VIEW)           |
+
 </div>
+
 
 ---
 
