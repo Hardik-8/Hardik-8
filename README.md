@@ -1,74 +1,10 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Hardik-8/Hardik-8/main/banner.png.gif" alt="banner" width="100%" />
 </p>
+<p align="center">
+  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=HARDIK%20JAIN&width=800&height=200&text2=AI%20%7C%20Data%20Science%20%7C%20ML%20%7C%20Generative%20AI" alt="Hardik Jain Mixed Glitch Banner" />
+</p>
 
-<div align="center">
-  <!-- Dynamic Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=120&section=header&text=HARDIK%20JAIN&fontSize=48&fontColor=00FF99&animation=fadeIn&fontAlignY=50&desc=AI%20%7C%20Data%20Science%20%7C%20Machine%20Learning%20%7C%20Generative%20AI&descSize=16&descAlign=50&descAlignY=75" />
-  
-  <!-- Professional Stats Grid -->
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://komarev.com/ghpvc/?username=Hardik-8&style=for-the-badge&color=0066CC&label=PROFILE%20VIEWS" height="30" />
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/github/followers/Hardik-8?label=FOLLOWERS&style=for-the-badge&color=orange&logo=github" height="30" />
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/FOCUS-AI%20%7C%20DataScience-brightgreen?style=for-the-badge&logo=python" height="30" />
-      </td>
-    </tr>
-  </table>
-  
-  <!-- Professional Status Indicators -->
-  <div style="margin-top: 15px;">
-    <img src="https://img.shields.io/badge/🎯%20STATUS-Open%20to%20Opportunities-success?style=flat-square&labelColor=2C3E50" />
-    <img src="https://img.shields.io/badge/💼%20EXPERIENCE-Data%20Science%20%7C%20ML-blue?style=flat-square&labelColor=2C3E50" />
-    <img src="https://img.shields.io/badge/🌟%20PASSION-Building%20AI%20Solutions-purple?style=flat-square&labelColor=2C3E50" />
-  </div>
-</div>
-
-<br>
-
-<table align="center">
-  <tr>
-    <td align="center" width="200">
-      <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45"><br>
-      <strong>Currently Working On</strong><br>
-      <sub>NIA - AI Assistant, Face & Gesture Recognition</sub>
-    </td>
-    <td align="center" width="200">
-      <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="45"><br>
-      <strong>Learning</strong><br>
-      <sub>Data Science, Generative AI, Cloud (GCP)</sub>
-    </td>
-    <td align="center" width="200">
-      <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="45"><br>
-      <strong>Ask Me About</strong><br>
-      <sub>Python, ML, AI Projects, Power BI, Analytics</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="200">
-      <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="45"><br>
-      <strong>Reach Me</strong><br>
-      <sub><a href="mailto:jainhardik819@gmail.com">📧 Email</a></sub>
-    </td>
-    <td align="center" width="200">
-      <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="45"><br>
-      <strong>Fun Fact</strong><br>
-      <sub>I turn coffee ☕ into AI projects 🤖🚀</sub>
-    </td>
-    <td align="center" width="200">
-      <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="45"><br>
-      <strong>Collaboration</strong><br>
-      <sub>Open to AI/ML projects & research work</sub>
-    </td>
-  </tr>
-</table>
-
-<br>
 
 <div align="center">
   <h3>
